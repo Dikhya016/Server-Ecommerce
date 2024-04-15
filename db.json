@@ -240,5 +240,54 @@
           "count": 145
         }
       }
+    ],
+    "mobileProducts":[
+         {
+        "id":1,
+        "images":"https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/u/h/7/edge-40-neo-payj0004in-motorola-original-imagtkezzam4qxfq.jpeg?q=70",
+        "title":"moto edge 40 neo",
+        "offer":"incl of offers",
+
+    },
+    {
+        "id":2,
+        "images":"https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/g/b/x/-original-imagtt4h4ptmxgwn.jpeg?q=70",
+        "title":"vivo t2 pro 5g",
+        "offer":"incl of offers",
+
+    },
+    {
+        "id":3,
+        "images":"https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/s/9/i/m6-pro-5g-mzb0eqjin-poco-original-imags3e7dazavyje.jpeg?q=70",
+        "title":"poco m6 pro",
+        "offer":"incl of offers",
+
+    },
+    {
+        "id":4,
+        "images":"https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/u/v/h/-original-imagxaqtzmqgtfen.jpeg?q=70",
+
+    },
+    {
+        "id":5,
+        "images":"https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/p/r/q/x6-neo-5g-mzb0ggrin-poco-original-imagyxngnrhzx96z.jpeg?q=70",
+
+    },
+    {
+        "id":6,
+        "images":"https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/d/3/g/-original-imagy2v5ggthbvfe.jpeg?q=70",
+
+    },
+    {
+        "id":7,
+        "images":"https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/w/i/d/-original-imagwzrguaee4pz6.jpeg?q=70",
+
+    },
+    {
+        "id":8,
+        "images":"https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/a/c/k/-original-imagtc5fuzkvczr7.jpeg?q=70",
+
+    }
+   
     ]
   }
