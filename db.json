@@ -1,298 +1,763 @@
 {
-    "products": [
-      {
-        "id": 1,
-        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-        "price": 109.95,
-        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-        "category": "men's clothing",
-        "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
-        "rating": {
-          "rate": 3.9,
-          "count": 120
-        }
-      },
-      {
-        "id": 2,
-        "title": "Mens Casual Premium Slim Fit T-Shirts ",
-        "price": 22.3,
-        "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
-        "category": "men's clothing",
-        "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
-        "rating": {
-          "rate": 4.1,
-          "count": 259
-        }
-      },
-      {
-        "id": 3,
-        "title": "Mens Cotton Jacket",
-        "price": 55.99,
-        "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
-        "category": "men's clothing",
-        "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
-        "rating": {
-          "rate": 4.7,
-          "count": 500
-        }
-      },
-      {
-        "id": 4,
-        "title": "Mens Casual Slim Fit",
-        "price": 15.99,
-        "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
-        "category": "men's clothing",
-        "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
-        "rating": {
-          "rate": 2.1,
-          "count": 430
-        }
-      },
-      {
-        "id": 5,
-        "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
-        "price": 695,
-        "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-        "category": "jewelery",
-        "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
-        "rating": {
-          "rate": 4.6,
-          "count": 400
-        }
-      },
-      {
-        "id": 6,
-        "title": "Solid Gold Petite Micropave ",
-        "price": 168,
-        "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
-        "category": "jewelery",
-        "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
-        "rating": {
-          "rate": 3.9,
-          "count": 70
-        }
-      },
-      {
-        "id": 7,
-        "title": "White Gold Plated Princess",
-        "price": 9.99,
-        "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
-        "category": "jewelery",
-        "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
-        "rating": {
-          "rate": 3,
-          "count": 400
-        }
-      },
-      {
-        "id": 8,
-        "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
-        "price": 10.99,
-        "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
-        "category": "jewelery",
-        "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
-        "rating": {
-          "rate": 1.9,
-          "count": 100
-        }
-      },
-      {
-        "id": 9,
-        "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
-        "price": 64,
-        "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
-        "category": "electronics",
-        "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
-        "rating": {
-          "rate": 3.3,
-          "count": 203
-        }
-      },
-      {
-        "id": 10,
-        "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
-        "price": 109,
-        "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
-        "category": "electronics",
-        "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
-        "rating": {
-          "rate": 2.9,
-          "count": 470
-        }
-      },
-      {
-        "id": 11,
-        "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
-        "price": 109,
-        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-        "category": "electronics",
-        "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
-        "rating": {
-          "rate": 4.8,
-          "count": 319
-        }
-      },
-      {
-        "id": 12,
-        "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
-        "price": 114,
-        "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
-        "category": "electronics",
-        "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
-        "rating": {
-          "rate": 4.8,
-          "count": 400
-        }
-      },
-      {
-        "id": 13,
-        "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
-        "price": 599,
-        "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
-        "category": "electronics",
-        "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
-        "rating": {
-          "rate": 2.9,
-          "count": 250
-        }
-      },
-      {
-        "id": 14,
-        "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
-        "price": 999.99,
-        "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
-        "category": "electronics",
-        "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
-        "rating": {
-          "rate": 2.2,
-          "count": 140
-        }
-      },
-      {
-        "id": 15,
-        "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
-        "price": 56.99,
-        "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
-        "category": "women's clothing",
-        "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
-        "rating": {
-          "rate": 2.6,
-          "count": 235
-        }
-      },
-      {
-        "id": 16,
-        "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
-        "price": 29.95,
-        "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
-        "category": "women's clothing",
-        "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
-        "rating": {
-          "rate": 2.9,
-          "count": 340
-        }
-      },
-      {
-        "id": 17,
-        "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
-        "price": 39.99,
-        "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
-        "category": "women's clothing",
-        "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
-        "rating": {
-          "rate": 3.8,
-          "count": 679
-        }
-      },
-      {
-        "id": 18,
-        "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
-        "price": 9.85,
-        "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
-        "category": "women's clothing",
-        "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
-        "rating": {
-          "rate": 4.7,
-          "count": 130
-        }
-      },
-      {
-        "id": 19,
-        "title": "Opna Women's Short Sleeve Moisture",
-        "price": 7.95,
-        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-        "category": "women's clothing",
-        "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
-        "rating": {
-          "rate": 4.5,
-          "count": 146
-        }
-      },
-      {
-        "id": 20,
-        "title": "DANVOUY Womens T Shirt Casual Cotton Short",
-        "price": 12.99,
-        "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
-        "category": "women's clothing",
-        "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
-        "rating": {
-          "rate": 3.6,
-          "count": 145
-        }
-      }
-    ],
-    "mobileData":[
-      {
-        "id":1,
-        "images":"https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/u/h/7/edge-40-neo-payj0004in-motorola-original-imagtkezzam4qxfq.jpeg?q=70",
-        "title":"moto edge 40 neo",
-        "offer":"incl of offers"
-
+  "Audio_products": [
+    {
+      "id": 1,
+      "image": "https://www.reliancedigital.in/medias/Apple-Airpods-Pro-2nd-Gen-493839243-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyMDE0N3xpbWFnZS9qcGVnfGltYWdlcy9oNjcvaDI5LzEwMDUwNzMxNDA5NDM4LmpwZ3w1MGE2NjQxZWU0M2Y5ZmNkY2Y3YzYwNmMzNzc2YTRmZmQ3NDhhZGQ3MzY4MDU5NzhjYTdhMzhlODM1Zjk4NTQw",
+      "title": "Apple Airpods Pro (2nd Gen-USB-C type) with MagSafe Charging Case True Wireless, with Active Noise Cancellation, Touch control, IP54 Dust, Sweat and water resistant, Bluetooth v5.3, Upto 30 hrs of playtime, White",
+      "price": "₹22,990.00",
+      "mrp": "₹24,900.00",
+      "save": "8%(₹1,910)",
+      "rating_review": "30 Ratings & 15 Reviews",
+      "offer_button": "OFFER AVAILABLE"
     },
     {
-        "id":2,
-        "images":"https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/g/b/x/-original-imagtt4h4ptmxgwn.jpeg?q=70",
-        "title":"vivo t2 pro 5g",
-        "offer":"incl of offers"
-
+      "id": 2,
+      "image": "https://www.reliancedigital.in/medias/boAt-Nirvana-TWS-Earbuds-493711847-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzNDgyNHxpbWFnZS9qcGVnfGltYWdlcy9oNjIvaDJmLzEwMTg2ODQ4MjA2ODc4LmpwZ3xmYzZlOTgzNGY1ZmY5MDFiNGYyMWE0ZmRlOTM0YmUxZmEwMGVlMWM0ZTIwZTBjMjA2MDNlMDc0N2E4NDExZDBl",
+      "title": "boAt Nirvana Ion Truly Wireless in-Ear Earbuds with 120 HRS Playback (24 hrs/Charge), Crystal Bionic Sound with Dual EQ Modes, Quad Mics ENx Technology, in Ear Detection (Charcoal Black)",
+      "price": "₹1,599.00",
+      "mrp": "₹2,099.00",
+      "save": "47%(₹1,400)",
+      "rating_review": "186 Ratings & 59 Reviews",
+      "offer_button": "OFFER AVAILABLE"
     },
     {
-        "id":3,
-        "images":"https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/s/9/i/m6-pro-5g-mzb0eqjin-poco-original-imags3e7dazavyje.jpeg?q=70",
-        "title":"poco m6 pro",
-        "offer":"incl of offers"
-
+      "id": 3,
+      "image": "https://www.reliancedigital.in/medias/Apple-EarPods-494443039-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w5ODUyfGltYWdlL2pwZWd8aW1hZ2VzL2g4Mi9oNzQvMTAxNjM1ODg3MjY4MTQuanBnfDAyMGRhZWQ2MmQyZjZiZjQyNGY0YzlmMTlkZjI2NmM2YjgwYmNiYzI1M2Q3OWQ5NmJiOWM3MzY3YjljOTZiMWQ",
+      "title": "Apple EarPods with Lightning Connector, Protection from sweat and water, Built-in Remote and Mic",
+      "price": "₹1,599.00",
+      "mrp": "₹1,799.00",
+      "save": "20%(₹401)",
+      "rating_review": "19 Ratings & 19 Reviews",
+      "offer_button": "OFFER AVAILABLE"
     },
     {
-        "id":4,
-        "images":"https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/u/v/h/-original-imagxaqtzmqgtfen.jpeg?q=70",
-        "title":"redmi 12 5g",
-        "offer":"incl of offers"
+      "id": 4,
+      "image": "https://www.reliancedigital.in/medias/Sony-WF-C500-Headphones-and-Headsets-492579493-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyOTQxMnxpbWFnZS9qcGVnfGltYWdlcy9oOGMvaGMwLzk3NTU3MDc5MzI3MDIuanBnfDg5ZTE0NTBmY2QxOThkYmYxZjRmOGEzM2JiOWNjOTk3ODVhOGE2NGYzNzgyNDVkZTg4YmJjOTZkMmEwNWIyYjE",
+      "title": "Sony WF-C500 True Wireless Earbuds, Upto 10 hrs of playtime, IPX4 Splash and Sweat proof, High-Quality built-in Microphone, Ergonomic Surface Design, Voice Assistant compatible, 360 Reality Audio, Black",
+      "price": "₹3,399.00",
+      "mrp": "₹8,990.00",
+      "save": "62%(₹5,591)",
+      "rating_review": "9 Ratings & 4 Reviews",
+      "offer_button": "OFFER AVAILABLE"
     },
     {
-        "id":5,
-        "images":"https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/p/r/q/x6-neo-5g-mzb0ggrin-poco-original-imagyxngnrhzx96z.jpeg?q=70",
-        "title":"POCO X6 Neo 5G",
-        "offer":"incl of offers"
+      "id": 5,
+      "image": "https://www.reliancedigital.in/medias/realme-Buds-T310-TWS-494443250-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzNjE4N3xpbWFnZS9qcGVnfGltYWdlcy9oNDYvaDc1LzEwMTc4NTczOTkxOTY2LmpwZ3w3Y2Y2ZDhjZmNmMDI4MTViM2QzMjM4NjFhN2Y5ZDAzN2M2MmYxYTBmNWUwOTJmMmQ2NGYxOTg5ZWRlN2Q1MGU1",
+      "title": "realme Buds T310 TWS Bluetooth Earbuds with 12.4 mm Dynamic Bass Driver, 40 Hrs Total Playback, Fast Charge (10 min Charge for 5 hrs Playback), Vibrant Black",
+      "price": "₹22,990.00",
+      "mrp": "₹3,999.00",
+      "save": "45%(₹1,800)",
+      "rating_review": "30 Ratings & 15 Reviews",
+      "offer_button": "OFFER AVAILABLE"
     },
     {
-        "id":6,
-        "images":"https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/d/3/g/-original-imagy2v5ggthbvfe.jpeg?q=70",
-        "title":"poco m6 5g",
-        "offer":"incl of offers"
+      "id": 6,
+      "image": "https://www.reliancedigital.in/medias/OnePlus-Bullets-Z2-ANC-493911682-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxNjI0MXxpbWFnZS9qcGVnfGltYWdlcy9oMjkvaDFkLzEwMDM3NzY0MDYzMjYyLmpwZ3xiZGU3NTJjNjgzNDdmMmViYTM0Y2U0OGZjZDhhZDNmOTU2ZjhjYjk0YzI5NDM5NmRhZTUyNTY3ZjFhYzlhOWU2",
+      "title": "OnePlus Bullets Wireless Z2 ANC Bluetooth in Ear Earphones with Mic, 45dB Hybrid ANC, Bombastic Bass - 12.4 mm Drivers, 10 Mins Charge - 20 Hrs Music, 28 Hrs Battery (Black)",
+      "price": "₹1,799.00",
+      "mrp": "₹2,499.00",
+      "save": "28%(₹700)",
+      "rating_review": "34 Ratings & 8 Reviews",
+      "offer_button": "OFFER AVAILABLE"
     },
     {
-        "id":7,
-        "images":"https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/w/i/d/-original-imagwzrguaee4pz6.jpeg?q=70",
-        "title":"poco x6 pro",
-        "offer":"incl of offers"
+      "id": 7,
+      "image": "https://www.reliancedigital.in/medias/boAt-Nirvana-Ion-Earbud-494249958-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1Mjk2NHxpbWFnZS9qcGVnfGltYWdlcy9oNmMvaGQ5LzEwMDkyNTIyNjM1Mjk0LmpwZ3xiZmE4NmE5ZjZkZTYzYjM1ZTc3ZmUyMGFmMzQyZTNhNGE2Yjg0NzY2NzQxMjYwYzUwMjgyZmJlNGJmMDdiYmQ0",
+      "title": "boAt Nirvana Ion ANC Truly Wireless in-Ear Earbuds with Up to 32 dB Active Noise Cancellation, 120 Hrs Playback, Crystal Bionic Sound Powered by Hifi, Beast Mode, ENx Tech, Hearables App (Crystal Black)",
+      "price": "₹1,899.00",
+      "mrp": "₹2,399.00",
+      "save": "81%(₹8,091)",
+      "rating_review": "61 Ratings & 61 Reviews",
+      "offer_button": "OFFER AVAILABLE"
     },
     {
-        "id":8,
-        "images":"https://rukminim2.flixcart.com/image/200/200/xif0q/mobile/a/c/k/-original-imagtc5fuzkvczr7.jpeg?q=70",
-        "title":"iphone 15",
-        "offer":"incl of offers"
+      "id": 8,
+      "image": "https://www.reliancedigital.in/medias/Apple-USB-TypeC-EarPods-494422743-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w4MTkzfGltYWdlL2pwZWd8aW1hZ2VzL2gwZC9oN2IvMTAxODQ4Nzc4OTk4MDYuanBnfGJlMjU0OWM2OTFmZjQ2N2M5NmM1MGUwNDY2ZjIzODkyZGQ2MDhhN2QyOTljMDkxNDEyNmUzZGY4ZmQyYmFkMmE",
+      "title": "Apple USB Type C EarPods with mic, Sweat and Water Resistant, High Quality Audio, Circular Earbuds, Deep, rich bass tones, Control music and video playback, Answer and end calls, White",
+      "price": "₹1,599.00",
+      "mrp": "₹1,799.00",
+      "save": "0%(₹401)",
+      "rating_review": "19 Ratings & 19 Reviews",
+      "offer_button": "OFFER AVAILABLE"
+    },
+    {
+      "id": 9,
+      "image": "https://www.reliancedigital.in/medias/Apple-Airpods-4-494422977-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxNzkwMXxpbWFnZS9qcGVnfGltYWdlcy9oZjYvaGM0LzEwMTk1NTIxMDQ0NTEwLmpwZ3wxYmFkODViMTQwZmRlODM3YWY2ODFmYjFjYzU5NGZkMTNhODlkZGI1NmEwNjllNjEyMTMyY2FmMTViMDM3NWM3",
+      "title": "Apple AirPods 4 with Active Noise Cancellation, Adaptive Audio and Transparency mode, Voice Isolation, Hey Siri and Siri Interactions, Up to 5 hours of listening time on a single charge, True Wireless Earbuds",
+      "price": "₹17,900.00",
+      "mrp": "₹24,900.00",
+      "save": "8%(₹1,910)",
+      "rating_review": "1 Ratings & 1 Reviews",
+      "offer_button": "OFFER AVAILABLE"
+    },
+    {
+      "id": 10,
+      "image": "https://www.reliancedigital.in/medias/Apple-Airpods-Pro-2nd-Gen-493839243-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyMDE0N3xpbWFnZS9qcGVnfGltYWdlcy9oNjcvaDI5LzEwMDUwNzMxNDA5NDM4LmpwZ3w1MGE2NjQxZWU0M2Y5ZmNkY2Y3YzYwNmMzNzc2YTRmZmQ3NDhhZGQ3MzY4MDU5NzhjYTdhMzhlODM1Zjk4NTQw",
+      "title": "Apple Airpods Pro (2nd Gen-USB-C type) with MagSafe Charging Case True Wireless, with Active Noise Cancellation, Touch control, IP54 Dust, Sweat and water resistant, Bluetooth v5.3, Upto 30 hrs of playtime, White",
+      "price": "₹22,990.00",
+      "mrp": "₹24,900.00",
+      "save": "8%(₹1,910)",
+      "rating_review": "30 Ratings & 15 Reviews",
+      "offer_button": "OFFER AVAILABLE"
     }
-   
-    ]
-  }
+  ],
+  "smartwatches": [
+    {
+      "id": 1,
+      "image": "https://www.reliancedigital.in/medias/Samsung-Watch7-Smartwatch-494421975-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0NjAwNXxpbWFnZS9qcGVnfGltYWdlcy9oN2EvaDdlLzEwMTcyODIwODQ4NjcwLmpwZ3xmM2ZiYzcwNDRiMGExMmJlNGZiYTUyOGUyMDQxN2VlZjI0MTk0MDM3ZDc5MzExMjBiZjIxODFmNGEzMWVmOWRh",
+      "title": "Samsung Galaxy Watch 7 40 mm Bluetooth + LTE Smart Watch, 3nm Processor, Dual GPS, Sapphire Glass & Armour Aluminum, 5ATM & IP68, HR, SpO2, BP & ECG Monitor, Green, SM-L305FZGAINS",
+      "price": "₹30,799.00",
+      "mrp": " ₹36,999.00",
+      "save": "17%(₹6,200)",
+      "rating_review": "10 Ratings & 15 Reviews",
+      "offer_button": "OFFER AVAILABLE"
+    },
+    {
+      "id": 2,
+      "image": "https://www.reliancedigital.in/medias/Apple-Watch-Series-10-494423153-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyODI3MXxpbWFnZS9qcGVnfGltYWdlcy9oMzgvaGE4LzEwMTk1MTQ2MDE0NzUwLmpwZ3wzMmQxYzM2YTQ0NWUxOWVkY2ZiM2E2ZGViNzNmN2Y4ZDQ0MTk5Y2Y2OTk2M2M2ZTQ0ZmVkMDUzNWYwMGVmZjBh",
+      "title": "Apple Watch Series 10 GPS 46 mm Jet Black Aluminium Case with Black Sport Band - M/L",
+      "price": "₹91,599.00",
+      "mrp": "₹97,099.00",
+      "save": "47%(₹1,400)",
+      "rating_review": "38 Ratings & 25 Reviews",
+      "offer_button": "OFFER AVAILABLE"
+    },
+    {
+      "id": 3,
+      "image": "https://www.reliancedigital.in/medias/Samsung-Ultra-Watch7-Smartwatch-494421976-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w3OTIwNHxpbWFnZS9qcGVnfGltYWdlcy9oNzUvaDM4LzEwMTcyNzk3NzQ3MjMwLmpwZ3xmNmFiYTAyOWMxZGI1MWZkNzcxYWE3NmFkOTVmODkwODJlOTQ4MzQzNmU3YzZmNGE3MDRhMDYyMTUwMmM2OWJh",
+      "title": "Samsung Galaxy Watch Ultra Smart Watch, Upto 100 H battery, 3nm Processor, Dual GPS, Quick Button/Siren, Sapphire Glass & Titanium, 10ATM & IP68, BP & ECG Monitor, Energy Score & AGEs, Titanium Gray, SM-L705FDAAINS",
+      "price": "₹51,599.00",
+      "mrp": "₹61,799.00",
+      "save": "20%(₹401)",
+      "rating_review": "30 Ratings & 15 Reviews"
+    },
+    {
+      "id": 4,
+      "image": "https://www.reliancedigital.in/medias/Google-Pixel-Watch-3-Smartwatch-494422710-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyMzA3NXxpbWFnZS9qcGVnfGltYWdlcy9oMzcvaDBjLzEwMjEwNzUxMzgxNTM0LmpwZ3xjMWQ3MDRhMzEyNzI3NzM5YWE2ZTNiZjg3OGQzNTdmZWVhZGE2Njk4MGFlN2M4MTFhMjlmNzEyMzI0MTg3N2Mw",
+      "title": "Google Pixel Watch 3 45 mm Smartwatch, Black Aluminum Case, Obsidian Active Band",
+      "price": "₹31,399.00",
+      "mrp": "₹48,990.00",
+      "save": "62%(₹5,591)",
+      "rating_review": "10 Ratings & 15 Reviews"
+    },
+    {
+      "id": 5,
+      "image": "https://www.reliancedigital.in/medias/Samsung-Watch7-Smart-Watch-494421968-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0Nzg1NHxpbWFnZS9qcGVnfGltYWdlcy9oOWYvaDQzLzEwMTc0MjU4MzE1Mjk0LmpwZ3xmNzgxNTk0MzBjYjJhOGFjNTAwYWYxOTc4NzUyZGZmNjUyZDE1OGY2ZGM2OTlkMTNlZDMxYWI2YWVkZTc1MzIz",
+      "title": "Samsung Galaxy Watch 7 44 mm Bluetooth Smart Watch, 3nm Processor, Dual GPS, Sapphire Glass & Armour Aluminum, 5ATM & IP68, HR, SpO2, BP & ECG Monitor, Green, SM-L310NZGAINS",
+      "price": "₹22,990.00",
+      "mrp": "₹35,999.00",
+      "save": "45%(₹1,800)",
+      "rating_review": "33 Ratings & 15 Reviews"
+    },
+    {
+      "id": 6,
+      "image": "https://www.reliancedigital.in/medias/Apple-Watch-Ultra-2-494423203-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w2NzI5N3xpbWFnZS9qcGVnfGltYWdlcy9oNWUvaGU1LzEwMTk1MzE1MDMyMDk0LmpwZ3xhZGI0M2IwYzI2MDAwNmY1MTU2NDA1ZDNiZWMzY2M2YzQ4ZmY2NWJjMGNiNGRhMmVkZmZjOTdmMTY5NGE0OWRh",
+      "title": "Apple Watch Ultra 2 GPS + Cellular 49 mm Black Titanium Case with Dark Green Alpine Loop - Medium",
+      "price": "₹89,799.00",
+      "mrp": "₹90,499.00",
+      "save": "28%(₹700)",
+      "rating_review": "38 Ratings & 25 Reviews"
+    },
+    {
+      "id": 7,
+      "image": "https://www.reliancedigital.in/medias/Titan-Celesto-Smart-Watch-494422073-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1Nzg0M3xpbWFnZS9qcGVnfGltYWdlcy9oY2IvaGEzLzEwMTc2ODExNTY1MDg2LmpwZ3wwNmU1MjgwMDdjY2QwNzJiYzhmNjY5ZjVkMTk3YTZmZTUyOTcyZjI5ZmVkMGEzODZkZmRjYTdkYzMzMWYyYjIw",
+      "title": "Titan Celestor Smartwatch with Advanced GPS, Altimeter, Barometer & Compass, 3.6 CM AMOLED Display with AOD, Piezoelectric Functional Crown, Single Sync BT Calling Black Eclipse (Black)",
+      "price": "₹9,899.00",
+      "mrp": "₹10,399.00",
+      "save": "81%(₹8,091)",
+      "rating_review": "20 Ratings & 15 Reviews"
+    },
+    {
+      "id": 8,
+      "image": "https://www.reliancedigital.in/medias/Apple-Watch-Series-494423143-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyNjAwOXxpbWFnZS9qcGVnfGltYWdlcy9oMzcvaDcxLzEwMTk0ODkyMjU5MzU4LmpwZ3wwNGIzYTFlYzE4NmIyNjJmODMxYjE5ZTUxODc3ZmE1MTQzNDMzODQyYzliZmVlMjAwM2RmMTg0MTEwYmU0M2U4",
+      "title": "Apple Watch Series 10 GPS 42 mm Jet Black Aluminium Case with Black Sport Band - S/M",
+      "price": "₹46,599.00",
+      "mrp": "₹46,799.00",
+      "save": "0%(₹401)",
+      "rating_review": "40 Ratings & 20 Reviews"
+    },
+    {
+      "id": 9,
+      "image": "https://www.reliancedigital.in/medias/boAt-Wave-Magma-Smartwatch-494493236-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0MDE4OXxpbWFnZS9qcGVnfGltYWdlcy9oZDIvaDk2LzEwMjIzMDM1NjEzMjE0LmpwZ3xjYjE0OTQ4OTUzYjdmOWFkNDc3ODU2NjQzMWMwYTM3Yzg0YzlmOTc1MGFlMjA3MjNiOTllNTI1Y2FlNTNkMmNi",
+      "title": "boAt Wave Magma Smart Watch, 4.97 cm (1.96 inch) HD Display, Advanced Bluetooth Calling, Animated Watch Faces, Android 7.0/IOS 12.0 above Compatible, 100+ Sports Modes, IP68 Dust, Sweat & Splash Resistance (Charcoal Black)",
+      "price": "₹1,900.00",
+      "mrp": "₹6,900.00",
+      "save": "8%(₹1,910)",
+      "rating_review": "23 Ratings & 5 Reviews"
+    },
+    {
+      "id": 10,
+      "image": "https://www.reliancedigital.in/medias/Titan-Smart-3-Black-Smartwatch-494352472-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w2MjQzMnxpbWFnZS9qcGVnfGltYWdlcy9oYTkvaDY3LzEwMTEzNTM0NjIzNzc0LmpwZ3xlZjk5ODQwODZhODY3YTVmMjA0NDQ4YmY4MGJmMzc3NmZmNzliMzYwODVlNDFjMjEyODAzM2I0MDllNGUwZjUx",
+      "title": "Titan Smart 3 Smartwatch, Black",
+      "price": "₹4,990.00",
+      "mrp": "₹11,900.00",
+      "save": "8%(₹1,910)",
+      "rating_review": "40 Ratings & 27 Reviews"
+    }
+  ],
+  "mobiles": [
+    {
+      "id": 1,
+      "image": "https://www.reliancedigital.in/medias/OnePlus-Nord-CE4-Mobile-Phone-494352991-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w2NTU2N3xpbWFnZS9qcGVnfGltYWdlcy9oOWEvaDJjLzEwMTI2MjY1MTIyODQ2LmpwZ3w2NzI5Nzg1MzI3YzJhZjMzMDAzY2I4Mjc1ZTdkOTllOWM0OTRkZmJiOGE1YmQ5NzFmZDgwOTIxMzJmMDI2NTZl",
+      "title": "OnePlus Nord CE4 8 GB RAM, 128 GB, Celadon Marble, Mobile Phone",
+      "price": "₹22,799.00",
+      "mrp": " ₹24,999.00",
+      "save": "17%(₹6,200)",
+      "rating_review": "5 Ratings & 15 Reviews"
+    },
+    {
+      "id": 2,
+      "image": "https://www.reliancedigital.in/medias/Redmi-A3x-494421819-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w3NzE1NXxpbWFnZS9qcGVnfGltYWdlcy9oOWUvaDJjLzEwMTg0Nzc1NTMyNTc0LmpwZ3w1Y2M3Y2QzNTRlNWZjNTdiYzJjMGI5Y2ZlMjM1Y2NhOTcyMTM5NmQ5ZmE2NTY0OTQ0OTdiNWVkYjI3NWY2YzIy",
+      "title": "Redmi A3x 64 GB, 3 GB RAM, Ocean Green, Mobile Phone",
+      "price": "₹6,599.00",
+      "mrp": "₹9,099.00",
+      "save": "47%(₹1,400)",
+      "rating_review": "3 Ratings & 1 Reviews"
+    },
+    {
+      "id": 3,
+      "image": "https://www.reliancedigital.in/medias/iPhone-14-Blue-PDP-Image-493177752-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0MTgzNHxpbWFnZS9qcGVnfGltYWdlcy9oNGUvaDdlLzEwMDE2ODEzNDQ5MjQ2LmpwZ3wxNjdkODk2YWRlZDg5ZTI5MjZiOWM5NWJiNWFhYzlhZDI0Y2I4ODBlYzdjMGE0MTczMmM0ZDI5NTM2M2Y0N2E2",
+      "title": "Apple iPhone 14 128 GB, Blue",
+      "price": "₹52,599.00",
+      "mrp": "₹54,799.00",
+      "save": "20%(₹401)",
+      "rating_review": "8 Ratings & 15 Reviews"
+    },
+    {
+      "id": 4,
+      "image": "https://www.reliancedigital.in/medias/Redmi-13C-5G-6-GB-RAM-128-GB-Black-Smartphone-494351689-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzNzM5M3xpbWFnZS9qcGVnfGltYWdlcy9oOTYvaDAxLzEwMDkxMjc4NTMyNjM4LmpwZ3w3ZDYwMzQ2ZjU1OTQwZTIxMjExMDIyZGIyZDc3OTJiMTYxZGJiNzc0Yjc5Yjc3YTQ2ODQwYWI2YzVjNmFhNzBk",
+      "title": "Redmi 13C 5G 128 GB, 6 GB RAM Black, Mobile Phone",
+      "price": "₹11,399.00",
+      "mrp": "₹14,990.00",
+      "save": "62%(₹5,591)",
+      "rating_review": "39 Ratings & 9 Reviews"
+    },
+    {
+      "id": 5,
+      "image": "https://www.reliancedigital.in/medias/Apple-MLPF3HN-A-Smart-Phone-491997699-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0NjYzOHxpbWFnZS9qcGVnfGltYWdlcy9oMzgvaGE2Lzk4NzgwOTAyODUwODYuanBnfGVkNmFmZTBiOTBjYmFlZWRiZTk4YzRhMGU5NjA0ZmNmM2ZhYzRhYjEyZmY4MWY2ZTFhMzBkM2ZlOGM0Y2QzYTQ",
+      "title": "Apple iPhone 13 128 GB, Midnight (Black)",
+      "price": "₹49,990.00",
+      "mrp": "₹50,999.00",
+      "save": "45%(₹1,800)",
+      "rating_review": "20 Ratings & 5 Reviews"
+    },
+    {
+      "id": 6,
+      "image": "https://www.reliancedigital.in/medias/Realme-Narzo-N65-494422941-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w2ODgyOHxpbWFnZS9qcGVnfGltYWdlcy9oZjEvaDVjLzEwMTk3ODAwNzQ3MDM4LmpwZ3wwMTM1Mjc0NmM3MjRmOWEwNzIzNjEyOWI3NmY3NzY2NGE2YWY0MWFjYzkwNTA2M2MwOTc4MmNiMGQ0NzVjYmRl",
+      "title": "Apple Watch Ultra 2 GPS + Cellular 49 mm Black Titanium Case with Dark Green Alpine Loop - Medium",
+      "price": "₹13,799.00",
+      "mrp": "₹15,499.00",
+      "save": "28%(₹700)",
+      "rating_review": "6 Ratings & 15 Reviews"
+    },
+    {
+      "id": 7,
+      "image": "https://www.reliancedigital.in/medias/Realme-Narzo-N65-494422939-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w2ODgyOHxpbWFnZS9qcGVnfGltYWdlcy9oNWIvaDBkLzEwMTk3ODAwNDE5MzU4LmpwZ3w4MzBmMzJkMDlkMGU1OWNjZWFmZGQzZGNmNDA5ZjEzNzE4MmVmMzQyNjJhMDE1MGM2NjAxNzViOTgwODk4NGNk",
+      "title": "Titan Celestor Smartwatch with Advanced GPS, Altimeter, Barometer & Compass, 3.6 CM AMOLED Display with AOD, Piezoelectric Functional Crown, Single Sync BT Calling Black Eclipse (Black)",
+      "price": "₹13,899.00",
+      "mrp": "₹15,399.00",
+      "save": "81%(₹8,091)",
+      "rating_review": "50 Ratings & 15 Reviews"
+    },
+    {
+      "id": 8,
+      "image": "https://www.reliancedigital.in/medias/Vivo-Y300-494493389-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0NjUzMXxpbWFnZS9qcGVnfGltYWdlcy9oMDIvaDQ0LzEwMjI2NTQ2NjcxNjQ2LmpwZ3xkOTY4M2JjNWE5OGY5Y2Y4NDBjODYzNzQ4Njc2ZjA0MmI4YjU3MjgxNDJjODNiY2NhZGMxNmFlZjEwNmQ0Yjdh",
+      "title": "Apple Watch Series 10 GPS 42 mm Jet Black Aluminium Case with Black Sport Band - S/M",
+      "price": "₹26,599.00",
+      "mrp": "₹36,799.00",
+      "save": "0%(₹401)",
+      "rating_review": "50 Ratings & 55 Reviews"
+    }
+  ],
+  "soundbars": [
+    {
+      "id": 1,
+      "image": "https://www.reliancedigital.in/medias/LG-SP8A-Sound-Bar-492579189-i-10-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyNzU0OXxpbWFnZS9qcGVnfGltYWdlcy9oYjEvaGJmLzk4MjEyNDE1MDc4NzAuanBnfDA2MjFhOGI4MzIwOGU3MTQzZTBlN2IxYjBiMmQzY2Y0ZDBlOTQyODAyYWYwY2YzYjQ2NThjMDI0NmQ3MjE4NDY",
+      "title": "LG SP8A 3.1.2 Channel 420 Watts Sound Bar with Meridian, Dolby Atmos, DTS: X, Dolby Vision",
+      "price": "₹26,799.00",
+      "mrp": " ₹58,999.00",
+      "save": "17%(₹6,200)",
+      "rating_review": "5 Ratings & 15 Reviews"
+    },
+    {
+      "id": 2,
+      "image": "https://www.reliancedigital.in/medias/Sony-5-1-CH-Soundbar-Home-Theatre-S20R-Black-491666475-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzMzY4MXxpbWFnZS9qcGVnfGltYWdlcy9oN2UvaGYwLzkzMDEyNzExODMzOTAuanBnfGRlMTU2YzllMmYyOWQwNDYyZTdhYzhlYzc0NGQ3N2E4ZGRmOGI5MzNkZTIwNWEwNjRjMDdhODAzMzUyM2MyMDQ",
+      "title": "Sony HT-S20R ,5.1 Channel Dolby Digital Soundbar Home Theatre System(Bluetooth Connectivity,USB Connectivity), 400 Watts",
+      "price": "₹16,599.00",
+      "mrp": "₹19,099.00",
+      "save": "47%(₹1,400)",
+      "rating_review": "3 Ratings & 1 Reviews"
+    },
+    {
+      "id": 3,
+      "image": "https://www.reliancedigital.in/medias/Samsung-HW-T42E-XL-Soundbar-493666945-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxMTYzNHxpbWFnZS9qcGVnfGltYWdlcy9oYjcvaGM4Lzk5NjE2NTUwNDIwNzguanBnfDQxYTllMTM1OGNmNWQwZGYxZTMxOGIxY2E4NjNkYjI2ZTMxOTE4YTFkN2YyMGI4YjBhMjVmZWI0ZjhmOTQ4ZmM",
+      "title": "Samsung HW-T42E/XL 2.1 Channel Bluetooth Soundbar with Dolby Digital, Black, 150 Watts",
+      "price": "₹7,599.00",
+      "mrp": "₹14,799.00",
+      "save": "20%(₹401)",
+      "rating_review": "8 Ratings & 15 Reviews"
+    },
+    {
+      "id": 4,
+      "image": "https://www.reliancedigital.in/medias/Boat-Aavante-Bar-Rhythm-493711810-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0OTU5fGltYWdlL2pwZWd8aW1hZ2VzL2g0ZC9oOGQvOTk5MjQ5OTYyNjAxNC5qcGd8OTAyNzEwMjZlNjJjZWFhM2IzNWYwOWU0MjkwZjQxMDM4MTdlN2NiY2MyNTkwZmQ5NWU0M2EyMTE5ODFjYTIyNw",
+      "title": "boAt Aavante Bar Rhythm 2.0 Soundbar, Black, 60 Watts",
+      "price": "₹11,399.00",
+      "mrp": "₹14,990.00",
+      "save": "62%(₹5,591)",
+      "rating_review": "39 Ratings & 9 Reviews"
+    },
+    {
+      "id": 5,
+      "image": "https://www.reliancedigital.in/medias/Sony-HT-S40R-Soundbar-492403756-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w3NjQwfGltYWdlL3BuZ3xpbWFnZXMvaDRiL2g1MS85NjI5NzQyMTcwMTQyLnBuZ3w5MzY0ODI3Yjc5OWEyZmIzY2E0ZWYwMDNlNjUxZjM1OTE5MmY0ZWE5OWNlM2VjZmVmMDMzNzg2NTFiMzNjZmU2",
+      "title": "Sony HT-S40R ,5.1 Channel Home Theater Soundbar System, 600 Watts",
+      "price": "₹29,990.00",
+      "mrp": "₹50,999.00",
+      "save": "45%(₹1,800)",
+      "rating_review": "20 Ratings & 5 Reviews"
+    },
+    {
+      "id": 6,
+      "image": "https://www.reliancedigital.in/medias/Samsung-SB-PRM-Q990D-494410400-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxNDM4M3xpbWFnZS9qcGVnfGltYWdlcy9oNDkvaDZmLzEwMTYyNzEwNDEzMzQyLmpwZ3xmN2JjNjJlYmMxZjU2ODAzODE5ZGIwOGE2NTM1YmIyNmNkOGFkOGUwYzQzZmZmMjI3OWNiMDEwY2FiYmRiMzdi",
+      "title": "Samsung Q990D 11.1.4 Channel Soundbar, 656 Watts with Wireless Dolby Atmos",
+      "price": "₹83,799.00",
+      "mrp": "₹85,499.00",
+      "save": "28%(₹700)",
+      "rating_review": "6 Ratings & 15 Reviews"
+    },
+    {
+      "id": 7,
+      "image": "https://www.reliancedigital.in/medias/Sony-5-1-CH-1000-W-Home-Theatre-S700-491430958-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxNzQ3N3xpbWFnZS9qcGVnfGltYWdlcy9oN2MvaDI3LzkzMDEyNTQ5MzA0NjIuanBnfGQ2ZGJiOWNlNDdjZTM1OTA5NDAwZmRjNTJjOWYzNTgzZDMxYzE1M2U2NGQ1ZjJlMDdhYzIyN2Y3ZmFkYTgyNjg",
+      "title": "Sony HT-S700RF 1000 watts Real 5.1 Channel Dolby Digital Tall boy Soundbar Home Theatre System ( Bluetooth, Dolby Digital,Tall boy Speaker)",
+      "price": "₹43,899.00",
+      "mrp": "₹45,399.00",
+      "save": "81%(₹8,091)",
+      "rating_review": "50 Ratings & 15 Reviews"
+    },
+    {
+      "id": 8,
+      "image": "https://www.reliancedigital.in/medias/LG-S40T-Soundbar-494443167-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyOTg5fGltYWdlL2pwZWd8aW1hZ2VzL2gwZC9oMWEvMTAxODIxMTkyMjc0MjIuanBnfDU0NGU2NGRlNTBkMTUxY2IzNDQxY2Y4NjgyYjJjMzNmNGVkNzgwOGQ5NGNkOGUwYTdjZDFhNjNjMzE4YmJkYjA",
+      "title": "LG S40T 2.1 Channel 300 W Soundbar, DTS Digital Surround, Black",
+      "price": "₹16,599.00",
+      "mrp": "₹36,799.00",
+      "save": "0%(₹401)",
+      "rating_review": "50 Ratings & 55 Reviews"
+    }
+  ],
+  "water_heater": [
+    {
+      "id": 1,
+      "image": "https://www.reliancedigital.in/medias/Havells-Instanio-Instant-Water-Heater-3-litre-491281703-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxMDI4NnxpbWFnZS9qcGVnfGltYWdlcy9oYzgvaGZkLzg5NTExMzQ5MTI1NDIuanBnfGM0ZTcwZmEyOTlmY2U3YjhlYmU4YmMyZTZkZWEwYzgxZWVhOGYzNjZjYTRkZjJhNjgwYTZkYzhkYWY1NzNlMzY",
+      "title": "Havells Instanio, 3 Litres, 3000 Watts, Instant Water Heater, Colour-Changing LED Indicator, 5 Star Rating, White Blue",
+      "price": "₹3,799.00",
+      "mrp": " ₹5,999.00",
+      "save": "17%(₹6,200)",
+      "rating_review": "5 Ratings & 15 Reviews"
+    },
+    {
+      "id": 2,
+      "image": "https://www.reliancedigital.in/medias/Bajaj-New-Shakti-491166983-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzNzcxOHxpbWFnZS9qcGVnfGltYWdlcy9oYWIvaDZmLzEwMjE2MzU0MzQ5MDg2LmpwZ3wzYzEyMzAyYjZkNmQ4ZDMwZDhlOGVhZDU2ZjQwOWM5MzQyZjQ2NjZhOTA2NGVhYTY3MWVlODMyZTUxYmEwMzU0",
+      "title": "Bajaj New Shakti, 15 litres, 2000 Watt Storage Water Heater, Glass Lined Coating, 4 Star Rated, White",
+      "price": "₹16,599.00",
+      "mrp": "₹19,099.00",
+      "save": "47%(₹1,400)",
+      "rating_review": "3 Ratings & 1 Reviews"
+    },
+    {
+      "id": 3,
+      "image": "https://www.reliancedigital.in/medias/A-O-Smith-Finesse-Water-Heater-493858105-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w4NjgyfGltYWdlL2pwZWd8aW1hZ2VzL2hiNi9oODMvMTAwMjE5MjkwOTExMDIuanBnfDdkY2M5MGE1MzY3Y2I1MGM1NWExNTFmYjZjZTk3NzY2OTRlNTcyNWEyYjQzNWY4ODA4NTFjYjNjNGRjZDI1YTQ",
+      "title": "A. O. Smith Finesse, 15 Liters, Geyser BEE 5 Star Rating, Corrosion free Blue Diamond Glass Coated Tank, Smart Modes, White",
+      "price": "₹17,599.00",
+      "mrp": "₹19,799.00",
+      "save": "20%(₹401)",
+      "rating_review": "8 Ratings & 15 Reviews"
+    },
+    {
+      "id": 4,
+      "image": "https://www.reliancedigital.in/medias/Havells-Bianca-Storage-Water-Heater-492391905-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxNDk4NXxpbWFnZS9qcGVnfGltYWdlcy9oMzkvaDk5LzEwMDkxNzA1NTMyNDQ2LmpwZ3xjNTBlNWQ3Y2Y2MmMwY2JmY2Q3MTBlNWE4OTRkNmUyNTI1MTE1YjgyODUwYTJmMjVmZDgyNTVjZmFkYTQwNDJm",
+      "title": "Havells Bianca 15 L Storage Water Heater White",
+      "price": "₹11,399.00",
+      "mrp": "₹14,990.00",
+      "save": "62%(₹5,591)",
+      "rating_review": "39 Ratings & 9 Reviews"
+    },
+    {
+      "id": 5,
+      "image": "https://www.reliancedigital.in/medias/Usha-Aquerra-Water-Heaters-492284330-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0MDM2NHxpbWFnZS9qcGVnfGltYWdlcy9oMDgvaDQ0Lzk2Mzg2MjQxMDAzODIuanBnfDUyNzYyMWNhZTgyZGY4MzM5MmJjNmIyODg4MDZhZTYwNmI5ODY5ZmQ2ZmU5YTliY2MyNjdlYzczNTc0ZDQyNzM",
+      "title": "Usha Aquerra, 15 litres Storage Water Heater, Aquerra with Whirl Flow Technology,White",
+      "price": "₹10,990.00",
+      "mrp": "₹20,999.00",
+      "save": "45%(₹1,800)",
+      "rating_review": "20 Ratings & 5 Reviews"
+    },
+    {
+      "id": 6,
+      "image": "https://www.reliancedigital.in/medias/Havells-Bianca-Storage-Water-Heater-492391906-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxNDk4NXxpbWFnZS9qcGVnfGltYWdlcy9oNDUvaDZjLzEwMDkxNzA2MTg3ODA2LmpwZ3w4OTY2MGMwZTMyYzY2YjI0MmRjNzk4ODhiNzhiMmU5YjcwYmY5MzA5MTE4YmE4YWU1OGFjYjMzNzAwZThhZjBm",
+      "title": "Havells Bianca 25 L Storage Water Heater White",
+      "price": "₹13,799.00",
+      "mrp": "₹15,499.00",
+      "save": "28%(₹700)",
+      "rating_review": "6 Ratings & 15 Reviews"
+    },
+    {
+      "id": 7,
+      "image": "https://www.reliancedigital.in/medias/A-O-Smith-Finesse-Water-Heater-493858106-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w4NjgyfGltYWdlL2pwZWd8aW1hZ2VzL2g0ZC9oNmUvMTAwMjE5Mjk3NDY0NjIuanBnfDBmZDczNzUxNTlmODU4NTU1MDA3ZGE2ZmRlODYxZTRjN2E1NzBhYzllNmFmYTRlNDJkODMzYzgwMDY0ODExYTk",
+      "title": "A. O. Smith Finesse-025 White with Smart Modes, BEE 5 Star Rating, Corrosion free Blue Diamond Glass Coated Tank",
+      "price": "₹13,899.00",
+      "mrp": "₹15,399.00",
+      "save": "81%(₹8,091)",
+      "rating_review": "50 Ratings & 15 Reviews"
+    },
+    {
+      "id": 8,
+      "image": "https://www.reliancedigital.in/medias/Bajaj-New-Shakti-491166984-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyOTUzM3xpbWFnZS9qcGVnfGltYWdlcy9oYjgvaGJmLzEwMjE2NjM1ODkxNzQyLmpwZ3w4YzNmNDk3ZDljMDVjNTQwZDdlZDU3OTk5ZTRkYjRjNDBkN2I2ZDk4ZWEwY2Q3Y2VmNjAxODZjYzg2Yjg1MmM0",
+      "title": "Bajaj New Shakti, 25 litres, 2000 Watt, Storage Water Heater, 4 Bee Star Rating, Glassline Coated Tank, Protection against Rust and Corrosion, White",
+      "price": "₹16,599.00",
+      "mrp": "₹36,799.00",
+      "save": "0%(₹401)",
+      "rating_review": "50 Ratings & 55 Reviews"
+    }
+  ],
+  "tables": [
+    {
+      "id": 1,
+      "image": "https://www.reliancedigital.in/medias/Apple-iPad-Air-494404974-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w3MTMwMHxpbWFnZS9qcGVnfGltYWdlcy9oNTQvaGRkLzEwMTQyNzY3MjUxNDg2LmpwZ3w3MTAxN2NkYWU4ZTkxY2NlMTcyZWRhMTdkNTZmNWFhYmRkMTg2OGMxYWU3OGYyMGQxM2IxZjhmNGQ2NGY0MWVh",
+      "title": "Apple iPad Air 1st Gen 2024 32.78 cm (13 inch) Wi-Fi Tablet, 128 GB, Blue",
+      "price": "₹73,799.00",
+      "mrp": " ₹85,999.00",
+      "save": "17%(₹6,200)",
+      "rating_review": "5 Ratings & 15 Reviews"
+    },
+    {
+      "id": 2,
+      "image": "https://www.reliancedigital.in/medias/iPad-Air-5thGen-WiFi-Starlight-PDP-Image-492849483-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0MjQ1MHxpbWFnZS9qcGVnfGltYWdlcy9oMzMvaDA5LzEwMDE1MTM2MjUxOTM0LmpwZ3w3YWQ0ODFhYWZjZTI0ZDYyZmVjZjcyZDk2ZDI3MWI4NDNiN2MyYjc5YWIwNjE5ZjM5ZDU0MmZkYWJiNjIwZGRl",
+      "title": "Apple iPad Air 5th Gen 2022 27.69 cm (10.9 inch) Wi-Fi Tablet, 64 GB, MM9F3HN/A, Starlight",
+      "price": "₹59,599.00",
+      "mrp": "₹70,099.00",
+      "save": "47%(₹1,400)",
+      "rating_review": "3 Ratings & 1 Reviews"
+    },
+    {
+      "id": 3,
+      "image": "https://www.reliancedigital.in/medias/OnePlus-Pad-Go-8-GB-RAM-128-GB-Twin-Mint-LTE-Tablet-494268172-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyMjg0OXxpbWFnZS9qcGVnfGltYWdlcy9oNjAvaDMzLzEwMDY3NjU0NTA4NTc0LmpwZ3w5MWVmOTQ1ZWY0OGRhZmM2MjE0ZDEzMWQzZGM1YTc3YmY2MzM5ZTk3YjcyZTVkNDQzMTg4MDc5MGZjMWRhNGJl",
+      "title": "OnePlus Pad Go 28.82 cm (11.35 inches) 8 GB RAM, 128 GB, Twin Mint, LTE Tablet, OPD2304 IN",
+      "price": "₹17,599.00",
+      "mrp": "₹19,799.00",
+      "save": "20%(₹401)",
+      "rating_review": "8 Ratings & 15 Reviews"
+    },
+    {
+      "id": 4,
+      "image": "https://www.reliancedigital.in/medias/iPad-10thGen-Wi-Fi-Silver-493178823-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzMzExM3xpbWFnZS9qcGVnfGltYWdlcy9oNzUvaDVjLzEwMDE1NTE3Mjc4MjM4LmpwZ3wwZTRlZGUyOTBmYzUxMDIzM2E3MDY1MjZhNWQ4NGM0ODc3NjZiZWY5Mjk3MDA4YTExOThhZDdjZGU3OWM2N2Jk",
+      "title": "Havells Bianca 15 L Storage Water Heater White",
+      "price": "₹34,399.00",
+      "mrp": "₹40,990.00",
+      "save": "62%(₹5,591)",
+      "rating_review": "39 Ratings & 9 Reviews"
+    },
+    {
+      "id": 5,
+      "image": "https://www.reliancedigital.in/medias/Samsung-Tab-A9-Plus-494268075-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzMjE5OHxpbWFnZS9qcGVnfGltYWdlcy9oNmQvaDMwLzEwMDU5NjY5NjY3ODcwLmpwZ3xiNmY2NjQ5YTAxYWI1OTQxMTAyNGE0ZThlY2VlN2NlMGQ1Yzg5ZTQzYjVhNDhlNWFkMTc0MmQzNGRjNTE2Yzc3",
+      "title": "Samsung Galaxy 27.94 cm (11.0 inch) Wi-Fi + Cellular Tablet 128 GB 8 GB Silver Tab A9+X216BE(2023)",
+      "price": "₹25,990.00",
+      "mrp": "₹30,999.00",
+      "save": "45%(₹1,800)",
+      "rating_review": "20 Ratings & 5 Reviews"
+    },
+    {
+      "id": 6,
+      "image": "https://www.reliancedigital.in/medias/Samsung-Tab-S9-FE-494268083-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzOTE1NXxpbWFnZS9qcGVnfGltYWdlcy9oYTAvaGY0LzEwMDU5Njg3MDM0OTEwLmpwZ3wzMTI3M2RmZDczNmJjYmRlMTc3NzY0YTYzMGE2OGQ4MzVhOWY5MjczYTM0Y2QzNzFiYWU3ODE1YzYwMTRjNzZm",
+      "title": "Samsung Galaxy 27.68 cm (10.9 inch) Wi-Fi + Cellular Tablet 128 GB 6 GB Silver Tab S9 FEX516BA",
+      "price": "₹43,799.00",
+      "mrp": "₹45,499.00",
+      "save": "28%(₹700)",
+      "rating_review": "6 Ratings & 15 Reviews"
+    },
+    {
+      "id": 7,
+      "image": "https://www.reliancedigital.in/medias/Apple-iPad-Tablet-491997821-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w2NDg0fGltYWdlL2pwZWd8aW1hZ2VzL2hmMy9oYmUvOTYzNTMyOTMxMDc1MC5qcGd8NGZlMzA4YTU5OWM2ZWFhMmI0MTkxMjdlNDdjOGFiN2NlNTQzYzQ4MmQ1Y2JlMGQ1Mzg4MzkxMDY0MGMxMTg5Yg",
+      "title": "Apple iPad 9th Gen 2021 25.91 cm (10.2 inch) Wi-Fi + Cellular Tablet , 64 GB, Space Grey, MK473HN/A",
+      "price": "₹43,899.00",
+      "mrp": "₹45,399.00",
+      "save": "81%(₹8,091)",
+      "rating_review": "50 Ratings & 15 Reviews"
+    },
+    {
+      "id": 8,
+      "image": "https://www.reliancedigital.in/medias/Samsung-Galaxy-Tab-S9-Ultra-493838851-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w4OTQ4fGltYWdlL2pwZWd8aW1hZ2VzL2g1Zi9oZDAvMTAwMzEzMDE3ODc2NzguanBnfGU3MmM2ODFkZTZmNjc4MjZjOWM4NWQxMmM2YTc1ODFlMGFkODAyZjczYTRmYjkxOTc5MmMwN2RiMDdjZjNhOWI",
+      "title": "Bajaj New Shakti, 25 litres, 2000 Watt, Storage Water Heater, 4 Bee Star Rating, Glassline Coated Tank, Protection against Rust and Corrosion, White",
+      "price": "₹1,59.999.00",
+      "mrp": "₹1,79,999.00",
+      "save": "0%(₹401)",
+      "rating_review": "50 Ratings & 55 Reviews"
+    }
+  ],
+  "washing_machines": [
+    {
+      "id": 1,
+      "image": "https://www.reliancedigital.in/medias/Whirlpool-WM-CLASSIC-7.0-GENX-GREY-10YMW-Washing-Machines-493715208-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyNTYxMHxpbWFnZS9qcGVnfGltYWdlcy9oZGIvaDQ1Lzk5OTU2ODMzOTc2NjIuanBnfDk5MTk0M2U3MmU0NGIzNDQ2MTM1YThlOTljMTcyYjA3OGZlN2FkZTg3OTk5MGRiMzNhNmNlMjY5OWY5ZjFkYTc",
+      "title": "Whirlpool Gen X Series 7 kg Top Load Fully Automatic Washing Machine,Grey",
+      "price": "₹13,799.00",
+      "mrp": " ₹15,999.00",
+      "save": "17%(₹6,200)",
+      "rating_review": "5 Ratings & 15 Reviews"
+    },
+    {
+      "id": 2,
+      "image": "https://www.reliancedigital.in/medias/TCL-WashingMachine-494338667-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzMTMzM3xpbWFnZS9qcGVnfGltYWdlcy9oN2UvaDhiLzEwMDk5NDg4NTg3ODA2LmpwZ3xlMGQwYzZhMWZlODllYTUwZjZkZjlmZGE2ZmNiMDJiMWFkYjgxNGU0YTRmODIwMDM1YzU5NTVhOTlmOGM3ODFl",
+      "title": "TCL 6.5 Kg Top Loading Fully Automatic Washing Machine, F3065TLG Dark Grey",
+      "price": "₹16,599.00",
+      "mrp": "₹19,099.00",
+      "save": "47%(₹1,400)",
+      "rating_review": "3 Ratings & 1 Reviews"
+    },
+    {
+      "id": 3,
+      "image": "https://www.reliancedigital.in/medias/Samsung-WA70BG4441BYTL-Washing-Machine-493620577-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyMzI3NHxpbWFnZS9qcGVnfGltYWdlcy9oMjYvaDJmLzk5MDc2NjY3NDc0MjIuanBnfDUyYzA0ZDY3YTc4OWUwNDY2YTRmNzNhMjM0YjMzODYxYzI4Yjc1ZWJhOWUzYTVlNGVmODk3YzJhNGQwYzE3NGE",
+      "title": "Samsung 7 Kg Top Load Fully Automatic Washing Machine, WA70BG4441BYTL",
+      "price": "₹17,599.00",
+      "mrp": "₹19,799.00",
+      "save": "20%(₹401)",
+      "rating_review": "8 Ratings & 15 Reviews"
+    },
+    {
+      "id": 4,
+      "image": "https://www.reliancedigital.in/medias/TCL-WashingMachine-494338668-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzMTMzM3xpbWFnZS9qcGVnfGltYWdlcy9oNjAvaDBiLzEwMDk5NDg4MjYwMTI2LmpwZ3w1OGVmOWNhZmMzZWNjNzIxYjQwOGU3MTY1MDBmYzlmMDc2MTJiNDlmMjAxMjRhMGQ5YTNmZGNlNzQ2ZGYyODFh",
+      "title": "TCL 7 Kg Top Loading Fully Automatic Washing Machine, F3070TLG Dark Grey",
+      "price": "₹11,399.00",
+      "mrp": "₹14,990.00",
+      "save": "62%(₹5,591)",
+      "rating_review": "39 Ratings & 9 Reviews"
+    },
+    {
+      "id": 5,
+      "image": "https://www.reliancedigital.in/medias/Whirlpool-ELITE-WashingMachine-491604539-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxNzQ5OXxpbWFnZS9qcGVnfGltYWdlcy9oYjkvaGQ0LzkzNTkyNDk0NzM1NjYuanBnfGFiZmZlYTg5NDBkMjRiNmM5YjgyYjk5YmViN2E0NDJlMTVhZTM2NGQyNjVhMGE2NTVhOWQ5OTgwMzliNDcyZWU",
+      "title": "Whirlpool 7.5 Kg 5 Star Fully-Automatic Top Loading Washing Machine (WHITEMAGIC ELITE 7.5, Grey, Hard Water Wash)",
+      "price": "₹10,990.00",
+      "mrp": "₹20,999.00",
+      "save": "45%(₹1,800)",
+      "rating_review": "20 Ratings & 5 Reviews"
+    },
+    {
+      "id": 6,
+      "image": "https://www.reliancedigital.in/medias/Samsung-WA80BG4545BVTL-Washing-Machine-493620586-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyMzI5MnxpbWFnZS9qcGVnfGltYWdlcy9oODUvaDZmLzk5MDc2Nzc1NjA4NjIuanBnfDk5ZmYwZTRmZjRmYzBhODFhZmM3NTE2ZmI3NGRhNzNmYzY3NGFkODM4ZjY3YjVlYTNiZmE1Y2ZjYjRjOGEwMjE",
+      "title": "Samsung 8 Kg Top Load Fully Automatic Washing Machine, WA80BG4545BVTL",
+      "price": "₹24,799.00",
+      "mrp": "₹25,499.00",
+      "save": "28%(₹700)",
+      "rating_review": "6 Ratings & 15 Reviews"
+    },
+    {
+      "id": 7,
+      "image": "https://www.reliancedigital.in/medias/Voltas-Beko-Top-Washing-Machine-494338963-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w5NzM1fGltYWdlL2pwZWd8aW1hZ2VzL2g4MC9oNTkvMTAxMzY5OTgzNzk1NTAuanBnfDFkYjYzY2VmNWI2OTdkOGVkYWY4N2NlNzE2NDIzZGJlYTgzMjU2ODNiYmUyMjVhNzA2YmE5ZTExZDMzNWFlZjY",
+      "title": "Voltas Beko 6.5 Kg Eco-Series Fully Automatic Top Loading Washing Machine, Grey WTL6504UEA",
+      "price": "₹12,899.00",
+      "mrp": "₹15,399.00",
+      "save": "81%(₹8,091)",
+      "rating_review": "50 Ratings & 15 Reviews"
+    },
+    {
+      "id": 8,
+      "image": "https://www.reliancedigital.in/medias/LG-T70SPSF2Z-Washing-Machines-491903052-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzMzA5MnxpbWFnZS9qcGVnfGltYWdlcy9oMjMvaDQzLzk1ODIyODMzNTgyMzguanBnfDdjMjQ5MGJlZTM3NzUwMjZmNTU0NmZlYWI5ZGIyNWUxYmJjMWM0NTlhYjc1OWVlYmU5MjI0YzU0M2NiMzI2ZjA",
+      "title": "LG 7 Kg Top Loading Fully Automatic Washing Machine with Smart Inverter Technology, T70SPSF2Z",
+      "price": "₹16,599.00",
+      "mrp": "₹36,799.00",
+      "save": "0%(₹401)",
+      "rating_review": "50 Ratings & 55 Reviews"
+    }
+  ],
+  "smart_tvs": [
+    {
+      "id": 1,
+      "image": "https://www.reliancedigital.in/medias/LG-32-HD-Smart-LED-TV-32LM560-491898016-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxMDA3MDd8aW1hZ2UvanBlZ3xpbWFnZXMvaGU1L2hhMy85NDQwNjM1ODEzOTE4LmpwZ3xhODFmMzRkZDk0N2IzM2I2NDhkMzYzZjUyYWEwZTIwYWI2ZTQ5MjE4MjE3NTY1Yzk4ZDE1NDQ0ZmVkOTIzOTEw",
+      "title": "LG 80 cm (32 inch) HD Ready LED Smart TV, 32LM560",
+      "price": "₹13,799.00",
+      "mrp": " ₹15,999.00",
+      "save": "17%(₹6,200)",
+      "rating_review": "5 Ratings & 15 Reviews"
+    },
+    {
+      "id": 2,
+      "image": "https://www.reliancedigital.in/medias/LG-43UQ7500PSF-TV-493911551-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w3NTI3N3xpbWFnZS9qcGVnfGltYWdlcy9oMjQvaGE2LzEwMDQwODc2MTA1NzU4LmpwZ3xjNDUzM2VjNjM1YmQ3M2I1MmJjZmY5MzQ3OGM3MzFhZDM1MDhlMDk5NjIxYjRjOTNiZTIyM2FhZmM5ODM5Mzk0",
+      "title": "LG 108 cm (43 inch) 4K UHD Smart TV 43UQ7500",
+      "price": "₹30,599.00",
+      "mrp": "₹39,099.00",
+      "save": "47%(₹1,400)",
+      "rating_review": "3 Ratings & 1 Reviews"
+    },
+    {
+      "id": 3,
+      "image": "https://www.reliancedigital.in/medias/TCL-50-QLED-SMART-GOOGLE-TV-494410497-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w5MzQyOXxpbWFnZS9qcGVnfGltYWdlcy9oMGUvaDJlLzEwMTU4NDIxNzcwMjcwLmpwZ3w2OWRhZWU5ZmY3YWMxNGRiNzEzZDM5MDliZDJiZDY4YzA3ODRmODk0ZTBmMDI1ZDBiNDI2OTJhMTAzMDY3MjUx",
+      "title": "TCL 127 cm (50 inch) QLED Smart Google TV, 50C655, Black",
+      "price": "₹37,599.00",
+      "mrp": "₹39,799.00",
+      "save": "20%(₹401)",
+      "rating_review": "8 Ratings & 15 Reviews"
+    },
+    {
+      "id": 4,
+      "image": "https://www.reliancedigital.in/medias/TCL-65-4K-UHD-SMART-GOOGLE-TV-494410494-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w5NDkzMXxpbWFnZS9qcGVnfGltYWdlcy9oNGMvaDhlLzEwMTU4NDE4MTY1NzkwLmpwZ3xiNjdlYWU4YmE2ZjgwMTRjYjgyMzFjNTQwOGZmNjA4YTU3MmU3YTRlNjVmMDFmNTNkNmI1ZDYyM2YzMjVmNDFj",
+      "title": "TCL 165.1 cm (65 inch) Ultra HD (4K) Google TV, 65P755 PRO, Black",
+      "price": "₹11,399.00",
+      "mrp": "₹14,990.00",
+      "save": "62%(₹5,591)",
+      "rating_review": "39 Ratings & 9 Reviews"
+    },
+    {
+      "id": 5,
+      "image": "https://www.reliancedigital.in/medias/TCL-32-FHD-SMART-LED-TV-494410487-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w4ODExOXxpbWFnZS9qcGVnfGltYWdlcy9oMGUvaGMzLzEwMTU4NDEzNTc4MjcwLmpwZ3wyMTU2ZDZkZjgxMjllOTE4NDg1YzNhNTM1ZDJlZWRlOTAxYjUwZGRkODRhZWQ2MWI4ZDFlOGY5NTYzOTM3Njdk",
+      "title": "TCL 81.28 cm (32 inch) Full HD Android TV, 32S5500AF, Black",
+      "price": "₹10,990.00",
+      "mrp": "₹20,999.00",
+      "save": "45%(₹1,800)",
+      "rating_review": "20 Ratings & 5 Reviews"
+    },
+    {
+      "id": 6,
+      "image": "https://www.reliancedigital.in/medias/TCL-50-QLED-SMART-GOOGLE-TV-494410497-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w5MzQyOXxpbWFnZS9qcGVnfGltYWdlcy9oMGUvaDJlLzEwMTU4NDIxNzcwMjcwLmpwZ3w2OWRhZWU5ZmY3YWMxNGRiNzEzZDM5MDliZDJiZDY4YzA3ODRmODk0ZTBmMDI1ZDBiNDI2OTJhMTAzMDY3MjUx",
+      "title": "TCL 127 cm (50 inch) QLED Smart Google TV, 50C655, Black",
+      "price": "₹37,599.00",
+      "mrp": "₹39,799.00",
+      "save": "20%(₹401)",
+      "rating_review": "8 Ratings & 15 Reviews"
+    },
+    {
+      "id": 7,
+      "image": "https://www.reliancedigital.in/medias/Samsung-UA50AUE70AKLXL-LED-TV-492796780-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w0NDUzN3xpbWFnZS9qcGVnfGltYWdlcy9oZmMvaGY1Lzk4MDcxMTIxNzU2NDYuanBnfDg3ZTgxOWE2YjcxZWRmNzZlZmFmOWY2MmE5ODY1ZGM1OTE5OTQ4MTE2MzViYzY2ZDJhYjVmM2FmZWE2ZTFmNDE",
+      "title": "Voltas Beko 6.5 Kg Eco-Series Fully Automatic Top Loading Washing Machine, Grey WTL6504UEA",
+      "price": "₹38,899.00",
+      "mrp": "₹40,399.00",
+      "save": "81%(₹8,091)",
+      "rating_review": "50 Ratings & 15 Reviews"
+    }
+  ],
+  "monitors": [
+    {
+      "id": 1,
+      "image": "https://www.reliancedigital.in/medias/Lg-19M38AB-Monitor-493178501-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzMTA5MnxpbWFnZS9qcGVnfGltYWdlcy9oOGQvaDZhLzk5MTAxODAxNTEzMjYuanBnfGJkYjUwYjFiNTljZjY5ZTIwMDEyZmU3NzlkYTI0ZGJkNDQ1NTZmYzdhOGQwNGRkOGJiNGE1YzAxMWQyNzg2Zjc",
+      "title": "LG 19M38AB 46.99 cm (18.5 Inch) TN Panel 1366 x 768 Black Monitor",
+      "price": "₹5,799.00",
+      "mrp": " ₹7,999.00",
+      "save": "17%(₹6,200)",
+      "rating_review": "5 Ratings & 15 Reviews"
+    },
+    {
+      "id": 2,
+      "image": "https://www.reliancedigital.in/medias/Zebronics-MT52-ZEB-A19HD-LED-492849912-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxMzQ2N3xpbWFnZS9qcGVnfGltYWdlcy9oMTcvaDBiLzk4Mjk4MDMyOTQ3NTAuanBnfDIwMjRlNzkwM2EzMDY4MmJhNjUzYTFmOGY4YzBiNjg3OTIyZWQ5ZWE0MzU3NGZhYWNiYjE5MDU2NDM5Njc4MjA",
+      "title": "ZEBRONICS MT52-ZEB A19HD 46.9 cm (18.5 inch), 1366 x 768 Resolution, Black Monitor",
+      "price": "₹3,599.00",
+      "mrp": "₹9,099.00",
+      "save": "47%(₹1,400)",
+      "rating_review": "3 Ratings & 1 Reviews"
+    },
+    {
+      "id": 3,
+      "image": "https://www.reliancedigital.in/medias/Dell-D2020H-Monitors-491946999-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyNjY2NnxpbWFnZS9qcGVnfGltYWdlcy9oODYvaGY2Lzk3NzI3OTY4NzA2ODYuanBnfGExMWVlZjYyMGMzYWY1MDRiYjM4ZDM2NGJmZWQzYmQyYWUyMDg5ZDY4MTdiNjhiYzFhYjhiZTA1MjQ1NzVkYjQ",
+      "title": "Dell D2020H. 49.53 cm (19.5-inch) 1600 x 900 Resolution, Black Monitor",
+      "price": "₹17,599.00",
+      "mrp": "₹19,799.00",
+      "save": "20%(₹401)",
+      "rating_review": "8 Ratings & 15 Reviews"
+    },
+    {
+      "id": 4,
+      "image": "https://www.reliancedigital.in/medias/Benq-GW2780-Monitor-492850948-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyNTA4OXxpbWFnZS9qcGVnfGltYWdlcy9oYWYvaDlhLzk4NjMyNTgxMTIwMzAuanBnfDU1M2Q5OTAwNDU5NjViMjc0ZWZjNjNjZmMyNDVkM2M4NTNjNmMxMmJkNzhjOTc1OGEzMmMwOWZhZjBhZTM1ZWU",
+      "title": "BenQ GW2780 68.58 cm (27 inch) IPS, Full HD, Built-in Speakers, HDMI, Display Port, Flicker-free Technology (Black), Monitor",
+      "price": "₹11,399.00",
+      "mrp": "₹14,990.00",
+      "save": "62%(₹5,591)",
+      "rating_review": "39 Ratings & 9 Reviews"
+    },
+    {
+      "id": 5,
+      "image": "https://www.reliancedigital.in/medias/Acer-HA220Q-Monitors-492849987-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w4ODc1NHxpbWFnZS9qcGVnfGltYWdlcy9oMjYvaDUyLzk4MTczMDMzODQwOTQuanBnfDRiMzY1YjAwNmUxNzUxMjFkYzcwOTA3ZTRlMmY0ZjliMjI2NGExMmQzNmUyYTE3NmNhMWZhODI1NmU1MDhiZDQ",
+      "title": "Acer HA220Q 54.61 cm (21.5 inch) with IPS Panel Technology 1920 x 1080 Resolution 2W Speakers White Monitor",
+      "price": "₹6,990.00",
+      "mrp": "₹10,999.00",
+      "save": "45%(₹1,800)",
+      "rating_review": "20 Ratings & 5 Reviews"
+    },
+    {
+      "id": 6,
+      "image": "https://www.reliancedigital.in/medias/Samsung-LS27CM500EWXXL-Monitor-493838245-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyNDYyMXxpbWFnZS9qcGVnfGltYWdlcy9oMjUvaGY2LzEwMDk1NDI5OTEwNTU4LmpwZ3xmNDE2NmM5OTYzNTA5YTcyNDRjNzExZGZkOTEzMTMxZGM5M2NlZmM2NGQ5ODBiZDE1MTZhNDBmNmJkMDI5OTY5",
+      "title": "Samsung LS27CM500EWXXL 68.58 cm (27 inch) 1920 x 1080 Resolution, Black Smart Monitor",
+      "price": "₹24,799.00",
+      "mrp": "₹25,499.00",
+      "save": "28%(₹700)",
+      "rating_review": "6 Ratings & 15 Reviews"
+    }
+  ],
+  "aquaguard": [
+    {
+      "id": 1,
+      "image": "https://www.reliancedigital.in/medias/Aquaguard-Superio-Water-Purifier-493692085-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyMzY3OXxpbWFnZS9qcGVnfGltYWdlcy9oM2IvaGE1LzEwMDI3Nzc5NzE5MTk4LmpwZ3xjYzNhM2ExNzVhNjgyYjJjYjNkMTQ5YzE1ZWI4Y2IzM2EwYjE3ZWM1MzMzODZjNzAyMDg5YzIwMGMyY2U3MGRj",
+      "title": "Aquaguard Superio 5 Litres 45 Watts RO+UV+MTDS+SS Water Purifier, Active Copper Zinc Booster Technology,7 Stages of Purification, Black",
+      "price": "₹18,799.00",
+      "mrp": " ₹20,999.00",
+      "save": "17%(₹6,200)",
+      "rating_review": "5 Ratings & 15 Reviews"
+    },
+    {
+      "id": 2,
+      "image": "https://www.reliancedigital.in/medias/LG-WW151NP-CBKQEIL-Water-Purifiers-491666312-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w2MzI0fGltYWdlL2pwZWd8aW1hZ2VzL2g0Zi9oMDEvOTI1NTIzMTQyMjQ5NC5qcGd8NWY5NDgyY2E2ZTEwZmE3NDEzMTdiMTIyNWU1MDEwY2NiOTk0MmZlNDIzNzFlMDU3ZTg4YWM3OTRjMmZjZGFlYQ",
+      "title": "LG WW151NP 8 Litres, 40 Watt, RO+UV Water Purifier, Mineral Filter, Digital Sterilizing Care, Black",
+      "price": "₹26,599.00",
+      "mrp": "₹29,099.00",
+      "save": "47%(₹1,400)",
+      "rating_review": "3 Ratings & 1 Reviews"
+    },
+    {
+      "id": 3,
+      "image": "https://www.reliancedigital.in/medias/Livpure-Water-Purifiers-Blue-494226777-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzNTEzMXxpbWFnZS9qcGVnfGltYWdlcy9oMDcvaGQzLzEwMTA3NzkyMTYyODQ2LmpwZ3xiZTU0YjMyZDE3MGExNzBhMmI1NmRhOTYxMDRlZDY5YTRjODEzN2Q0YWExOWIwN2EyYjY4NzMwMTY4MTFmNjAy",
+      "title": "Livpure Gaze 7L RO+UV+UF+Min Water Purifier with 7 Stage Purification Technology, Blue Colour",
+      "price": "₹7,599.00",
+      "mrp": "₹9,799.00",
+      "save": "20%(₹401)",
+      "rating_review": "8 Ratings & 15 Reviews"
+    },
+    {
+      "id": 4,
+      "image": "https://www.reliancedigital.in/medias/KENT-Water-Purifier-GRAND-PLUS-ZWW-MRO-11099-491891614-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wxMjkwNjN8aW1hZ2UvanBlZ3xpbWFnZXMvaDM0L2g4My85MzIzMDgyODQyMTQyLmpwZ3wzYWI3NDdiMWNiYmU0MzczZTI5MWQ5NzE1YWRhYTIwYmY4YmMwM2ZiNDBlYzc0YzQzNThlMzgzN2UxMDZlNjg4",
+      "title": "Kent ZWW Series Grand Plus, 9 Litres, RO+UV+UF+TDS Water Purifier, Zero Water Wastage,UV Disinfection Process, Auto-Flushing System, White",
+      "price": "₹1,399.00",
+      "mrp": "₹24,990.00",
+      "save": "62%(₹5,591)",
+      "rating_review": "39 Ratings & 9 Reviews"
+    },
+    {
+      "id": 5,
+      "image": "https://www.reliancedigital.in/medias/A-O-Smith-P6-Water-Purifiers-491959422-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzNDA5OHxpbWFnZS9qcGVnfGltYWdlcy9oNDMvaDk1Lzk1MTUzNzA5MzgzOTguanBnfDc4OTk0YjBjZjRkNDBkOWQ4ODlhNjQ4YzA1MmFmODgwZWYwMTNkZjk1Y2ZkZDM4NWNmZWU3YzY5MTFmNjViYzI",
+      "title": "A.O. Smith ProPlanet P6, 9 Litres + 0.8 Litres (Steel Hot Tank), 60 Watt, RO + SCMT, Water Purifier, Advance Recovery Technology, 8 Purification Stages, Black",
+      "price": "₹27,990.00",
+      "mrp": "₹30,999.00",
+      "save": "45%(₹1,800)",
+      "rating_review": "20 Ratings & 5 Reviews"
+    },
+    {
+      "id": 6,
+      "image": "https://www.reliancedigital.in/medias/Aquaguard-Jazz-Water-Purifiers-492284154-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyMjExN3xpbWFnZS9qcGVnfGltYWdlcy9oN2YvaDAxLzk1ODE0NDY1OTQ1OTAuanBnfDJiNDk2YTI0NjZhOTM0NTU2M2EzYTc1YTU5YTBkN2RiMGFjOGU3MTUwYWEzNGE5NjRjMzNlMmI0YWNiZWI2NWI",
+      "title": "Aquaguard Jazz, 6.2 Litres, 45 Watt, RO + UV + TA + AC Water Purifier, Active Copper Technology, 7 Stages of Purification, Energy Saving Mode, Black",
+      "price": "₹15,799.00",
+      "mrp": "₹20,499.00",
+      "save": "28%(₹700)",
+      "rating_review": "6 Ratings & 15 Reviews"
+    },
+    {
+      "id": 7,
+      "image": "https://www.reliancedigital.in/medias/LG-Water-Purifier-8L-494404328-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wzMjAxMnxpbWFnZS9qcGVnfGltYWdlcy9oYjEvaGMxLzEwMTUwNTc2ODgxNjk0LmpwZ3w3YWVmYjFhNzMwODI5NGYyZTMyYjU1NjcxYzExY2RiMmRlNTEwN2Q1NTNiNTJkZDAzMDhkZTY1ZDE2MjZkNjc1",
+      "title": "LG 8 L Ever Fresh UV Plus Water Purifier, WW156RPTB.CBTQEIL",
+      "price": "₹12,899.00",
+      "mrp": "₹15,399.00",
+      "save": "81%(₹8,091)",
+      "rating_review": "50 Ratings & 15 Reviews"
+    },
+    {
+      "id": 8,
+      "image": "https://www.reliancedigital.in/medias/Livpure-Allura-Premia-Water-Purifier-494404290-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3wyNzM4MHxpbWFnZS9qcGVnfGltYWdlcy9oYjQvaDMzLzEwMTIzMDY1MzI3NjQ2LmpwZ3w0N2U0MTJmYWJkOGNhNjM3NTljMWNjOWI0OThkMWE2Y2RmZjJmYTk4MWI2ZGY3YWQwNGQyMWJkNWY4ZWZkYjZj",
+      "title": "Livpure Allura Premia 7 Litre RO+UV+UF+Alk+Cu Water Purifier, 10 Stage Purification Technology, Black and Matt Brown, 30-Month Unconditional Warranty",
+      "price": "₹16,599.00",
+      "mrp": "₹36,799.00",
+      "save": "0%(₹401)",
+      "rating_review": "50 Ratings & 55 Reviews"
+    }
+  ]
+}
